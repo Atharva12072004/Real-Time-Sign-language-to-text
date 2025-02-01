@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "c3.py",  // Replace 'c3.py' with the name of your Python file
+      "src": "c3.py",
       "use": "@vercel/python"
     }
   ]
