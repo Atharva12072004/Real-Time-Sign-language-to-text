@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "your_python_file.py",  // Update this if your Python file is not inside the 'api/' folder
+      "src": "c3.py",  // Replace 'c3.py' with the name of your Python file
       "use": "@vercel/python"
     }
   ]
