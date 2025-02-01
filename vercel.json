@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "your_python_file.py",  // Update this if your Python file is not inside the 'api/' folder
+      "use": "@vercel/python"
+    }
+  ]
+}
